@@ -244,13 +244,15 @@ completed much faster as it loops through all the rows and simaltaneously takes 
 
 The links to the screenshots are given below which shows the working of the original code.
 
-Link 1
-Link 2
+https://github.com/Vaishali715/Stock-Analysis/blob/main/Resources/2017_Original.png
+
+https://github.com/Vaishali715/Stock-Analysis/blob/main/Resources/2018_Original.png
 
 The links to the screenshots are given below which shows the working of the refactored code.
 
-Link 1
-Link 2
+https://github.com/Vaishali715/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png
+
+https://github.com/Vaishali715/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png
 
 Looking at the run-time values it is understood that the refactored code is efficient than the original code.
 
