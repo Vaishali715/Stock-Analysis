@@ -272,4 +272,4 @@ The **advantage** of original and refactored VBA script is that we can use the o
 The **disadvantage** is that if the code is big then it becomes difficult with respect to time and money to be spent on it.
 
 
-
+Stock_3 testing 456
