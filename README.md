@@ -273,7 +273,3 @@ The **disadvantage** is that if the code is big then it becomes difficult with r
 
 
 
-Stock_2 editing 1234
-
-Stock_3 testing 456
-
