@@ -4,14 +4,14 @@ Performing analysis on green stocks values
 
 ## Project Overview
 
-To help Steve in analyzing the green stocks for his parents to invest in and to check if it is worth investing in. To get through the analyzing, I used Visual Basic Appication in Excel to find the 
-stock's total daily volumes and annual returns.First, I found the details about only one stock and then I compared other 11 more green stocks to see what would be the best option for his parents.
+To help Steve in analyzing the green stocks for his parents to invest in and to check if it is worth investing in. To get through the analyzing, I used Visual Basic Application in Excel to find the 
+stock's total daily volumes and annual returns. First, I found the details about only one stock and then I compared other 11 more green stocks to see what would be the best option for his parents.
 
 Compairing all the stocks gave a detailed study which could be understood by Steve's parents.
 
 ### Purpose
 
-The purpose of this project is to make an analysis, which will show up the multiple stocks in an effective way using VBA. To find out the details needed in an effective way which also includes refactorization of the code, which makes the analysis efficient.
+The purpose of this project is to make an analysis, which will show up multiple stocks in an effective way using VBA. To find out the details needed in an effective way which also includes refactorization of the code, which makes the analysis efficient.
 
 So, this project shows up whether the refactoring can make the analysis more efficient
 
